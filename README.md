@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Austin Kang!
+# About Austin Kang
 
-Engineering mind into impact.
+> "Programmer (noun): A machine that turns coffee into code."
 
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -20,5 +20,3 @@ Engineering mind into impact.
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=Kyeongmo_Austin" style="display:inline-block; margin-right: 10px;" />
   <img src="https://leetcard.jacoblin.cool/Kyeongmo_Austin?theme=dark&font=Baloo&ext=contest" style="display:inline-block;" />
 </div>
-
-> "Programmer (noun): A machine that turns coffee into code."
