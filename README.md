@@ -2,7 +2,7 @@
 
 Engineering mind into impact.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -12,6 +12,8 @@ Engineering mind into impact.
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+## 📈 GitHub Stats
+![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyeongmo_Austin&show_icons=true&theme=dark)
 
 ## 📊 My LeetCode Stats
 <div align="center">
