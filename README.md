@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Austin Kang!
 
-I'm passionate about solving algorithmic problems and building cool stuff.
+Engineering mind into impact.
 
 ## 📊 My LeetCode Stats
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Kyeongmo_Austin)
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kyeongmo_Austin?theme=dark&font=Baloo&ext=contest)
+<div align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Kyeongmo_Austin" style="display:inline-block; margin-right: 10px;" />
+  <img src="https://leetcard.jacoblin.cool/Kyeongmo_Austin?theme=dark&font=Baloo&ext=contest" style="display:inline-block;" />
+</div>
